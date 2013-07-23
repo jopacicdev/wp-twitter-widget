@@ -8,10 +8,10 @@
 
 // The tokens, keys and secrets from the app you created at https://dev.twitter.com/apps
 $config = array(
-	'oauth_access_token' => '472128285-O2FkTCi7XUxmsuALZTaZfS1dE1a4k9vkDzu0wYih',
-	'oauth_access_token_secret' => 'lT3xXGREr4lipycTaOVTAdJ1wq1eENNOpSBhGpUqCNw',
-	'consumer_key' => '3kAwSeBinlnsxKpCSnQ',
-	'consumer_secret' => 'bQTWLJimhe5RzqthaTCaTRR6py2u5fuYOGTpRNN3P5Q',
+	'oauth_access_token' => '',
+	'oauth_access_token_secret' => '',
+	'consumer_key' => '',
+	'consumer_secret' => '',
 	'use_whitelist' => false, // If you want to only allow some requests to use this script.
 	'base_url' => 'http://api.twitter.com/1.1/'
 );
